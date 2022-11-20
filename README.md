@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 <!-- [![Linkedin Badge]() -->
-[![Twitter Badge]()
+<!-- [![Twitter Badge]() -->
 <!-- [![Messenger Badge]() -->
 
 
