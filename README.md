@@ -1,21 +1,22 @@
-## Hi there, I'm Faisal 👋🏼👨🏻‍💻
+<h1 align="center">Hi 👋, I'm Faisal Abrar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-<!-- [![Linkedin Badge]() -->
-<!-- [![Twitter Badge]() -->
-<!-- [![Messenger Badge]() -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erfaisalabrar" alt="erfaisalabrar" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/faisalabrar84" target="blank"><img src="https://img.shields.io/twitter/follow/faisalabrar84?logo=twitter&style=for-the-badge" alt="faisalabrar84" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/@faisalabrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@faisalabrar" height="30" width="40" /></a>
+<a href="https://twitter.com/faisalabrar84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faisalabrar84" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/erfaisalabrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erfaisalabrar" height="30" width="40" /></a>
+</p>
 
-I am a Graduate Student at Itm University Gwalior , who is passionate about Coding and I love to learn and contribute in any and every possible way.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- 👯 I'm learning MERN Stack and Data Structure Algorithms in Java
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 📫 You can contact me at erfaisalabrar@gmail.com
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erfaisalabrar&show_icons=true&locale=en&layout=compact" alt="erfaisalabrar" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erfaisalabrar&show_icons=true&locale=en" alt="erfaisalabrar" /></p>
 
-----
-
-⭐️ From [Faisal](https://github.com/erfaisalabrar)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erfaisalabrar&" alt="erfaisalabrar" /></p>
